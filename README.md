@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bodapati Bhavya Sree</h1>
 <h3 align="center">SRM AP Student with a Passion for AI and ML</h3>
 
+👯 I’m  Pursuing a B.Tech in Computer Science Engineering with Specialization of AI and ML at SRM University, AP.
+
+
+🌱 Continuously exploring and enhancing my skills in AI and ML.
+
+💬  My passion for technology, experiences in collaborative learning, and any tech-related queries.
+
+⚡  Eager to code the future and make a positive impact!
+
 - 📫 How to reach me **bodapatibhavyasree@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
